@@ -4,7 +4,7 @@ title: Select Poems in English
 description: This is a selection of English poems I have written over the years. You can find a more extensive collection at the Instagram page <a href="https://instagram.com/vivijay_poetry?igshid=OGQ5ZDc2ODk2ZA==">@vivijay_poetry</a>
 tags: distill formatting
 giscus_comments: true
-date: 2021-01-01
+date: 2021-01-02
 featured: true
 
 authors:
@@ -53,63 +53,34 @@ _styles: >
 ## The Daughter of Stardust
 
 I was born within these walls.
-
 I carry them around, wherever I wander;
-
 The glass keeps me safe from
-
 Their blades and arrows and bombs
-
 As I trudge my way through, with caution.
-
 I hear them whispering
-
 About my hair, my mouth, my skin;
-
 Never the right size, never the right colour.
-
 I draw my glass walls closer,
-
 Hoping that would somehow shield me
-
 Against their ruthless eyes.
-
 The whispers get louder;
-
 My breasts, my thighs, my hips.
-
 My brain, my heart, my voice.
-
 Do I deserve, to be thus
-
 Sliced and diced and assessed
-
 Under their relentless scrutiny?
-
 As I bow my head in defeat,
-
 The ghosts of my ancestors
-
 Spring up around me.
-
 I gaze at them, with tenderness,
-
 And slowly, I see
-
 Stars and planets and galaxies
-
 Where their flaws and imperfections used to be.
-
 My eyes revert to my body.
-
 Was it not wonderful all along?
-
 As the glass walls shatter, I scream
-
 At the top of my lungs, fearless and dauntless;
-
 "I am the daughter of stardust;
-
 And majestic is all that I shall ever be."
 
 ***

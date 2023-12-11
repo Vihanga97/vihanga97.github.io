@@ -15,5 +15,4 @@ Here are some highlights from my work as a lecturer.
     <li>Evaluated final year research projects</li>
     <li>Evaluated industrial internships</li>
     <li>Evaluated semester projects</li>
-    <li>messenger</li>
 </ul>

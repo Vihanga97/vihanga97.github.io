@@ -2,12 +2,8 @@
 layout: default
 ---
 
-<object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" width="100%" height="500px">
-  <p>Unable to display PDF file. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">Download</a> instead.</p>
-</object>
-
 <!-- _layouts/cv.html -->
-<!-- {% unless site.data.resume %}
+{% unless site.data.resume %}
 <div class="post">
 
   <header class="post-header">
@@ -15,7 +11,11 @@ layout: default
       {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <div class="cv">
+  <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" width="100%" height="500px">
+    <p>Unable to display PDF file. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">Download</a> instead.</p>
+  </object>
+
+  <!-- <div class="cv">
     <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" width="100%" height="500px">
       <p>Unable to display PDF file. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">Download</a> instead.</p>
     </object>
@@ -108,7 +108,7 @@ layout: default
         </div>
       {% endfor %}
       </div>
-  </article>
+  </article> -->
 
 </div>
-{% endunless %} -->
+{% endunless %}

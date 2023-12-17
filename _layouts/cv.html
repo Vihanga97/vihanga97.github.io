@@ -10,7 +10,12 @@ layout: default
       {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <article>
+  <div class="cv">
+    <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" width="100%" height="80%">
+      <p>Unable to display PDF file. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">Download</a> instead.</p>
+    </object>
+
+  <!-- <article>
     <div class="cv">
       <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" width="100%" height="500px">
         <p>Unable to display PDF file. <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">Download</a> instead.</p>
@@ -98,7 +103,7 @@ layout: default
         </div>
       {% endfor %} -->
       </div>
-  </article>
+  </article> -->
 
 </div>
 {% endunless %}

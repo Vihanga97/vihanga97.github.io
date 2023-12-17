@@ -28,7 +28,7 @@ toc:
   - name: My Island Bride
   - name: To Kill My Killer
   - name: The Land I Once Loved
-  - name: When I%27m Gone
+  - name: When I&rsquo;m Gone
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.

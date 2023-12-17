@@ -1,11 +1,15 @@
 ---
-layout: cv
+
+layout: page
+title: CV
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: cv.pdf
 description: This CV was last updated on 12/12/2023.
-toc:
-  sidebar: left
+nav: true
+nav_order: 2
 ---
+
+
+<div class="content">
+  <!-- Embed the PDF -->
+  <iframe src="{{ 'assets/pdf/cv.pdf' | relative_url }}" width="100%" height="100%"></iframe>
+</div>

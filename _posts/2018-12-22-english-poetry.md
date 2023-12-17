@@ -225,7 +225,7 @@ The land I once loved is now barren.
 
 ***
 
-## "When I'm Gone"
+## When I'm Gone
 
 Someday, when I'm gone,<br>
 Write on my tombstone,<br>

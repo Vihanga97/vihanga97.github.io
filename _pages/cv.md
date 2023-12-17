@@ -11,5 +11,5 @@ nav_order: 2
 
 <div class="content">
   <!-- Embed the PDF -->
-  <iframe src="{{ 'assets/pdf/cv.pdf' | relative_url }}" width="100%" height="400%"></iframe>
+  <iframe src="{{ 'assets/pdf/cv.pdf' | relative_url }}" width="100%" height="600px"></iframe>
 </div>

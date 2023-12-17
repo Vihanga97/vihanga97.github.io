@@ -1,10 +1,10 @@
 ---
 layout: distill
 title: Select Poems in English
-description: This is a selection of English poems I have written over the years. You can find a more extensive collection at the Instagram page <a href="https://instagram.com/vivijay_poetry?igshid=OGQ5ZDc2ODk2ZA==">@vivijay_poetry</a>
+description: This is a selection of English poems I have written over the years. You can find a more extensive collection at the Instagram page <a href="https://instagram.com/vivijay_poetry?igshid=OGQ5ZDc2ODk2ZA==">vivijay_poetry</a>
 tags: distill formatting
 giscus_comments: true
-date: 2021-01-02
+date: 2023-12-10
 featured: true
 
 authors:

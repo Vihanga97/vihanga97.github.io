@@ -1,10 +1,10 @@
 ---
 layout: distill
 title: Select Poems in Sinhala
-description: This is a selection of Sinhala poems I have written over the years. You can find a more extensive collection at the Instagram page <a href="https://instagram.com/kavisithakasiththam?igshid=OGQ5ZDc2ODk2ZA==">@kavisithakasiththam</a>
+description: This is a selection of Sinhala poems I have written over the years. You can find a more extensive collection at the Instagram page <a href="https://instagram.com/kavisithakasiththam?igshid=OGQ5ZDc2ODk2ZA==">kavisithakasiththam</a>
 tags: distill formatting
 giscus_comments: true
-date: 2021-01-01
+date: 2023-12-05
 featured: true
 
 authors:

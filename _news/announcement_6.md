@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MERCon 2022 Conference: Participated as a paper reviewer
+MERCon 2023 Conference: Participated as a paper reviewer
